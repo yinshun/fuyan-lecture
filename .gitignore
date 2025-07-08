@@ -1,4 +1,5 @@
-app.json
-appearance.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/workspace.json
 *.pdf
 *.docx
