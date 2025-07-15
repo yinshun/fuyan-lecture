@@ -1,18 +1,20 @@
 # vajracchedikā prajñāpāramitā】
 ## The convocation of the Assembly
  evaṃ mayā śrutam
- ekasmin samaye |
+ ekasmin samaye | ^1a
+ 
 Bhagavāñ Śrāvastyāṃ viharati sma Jetavane 'nāthapiṇḍadasya-ārāme
- mahatā bhikṣu-saṁghena sārdham ardhatrayodaśabhir bhikṣu-śataiḥ sambahulaiś ca bodhisattvair mahāsattvaiḥ | ^1a
+ mahatā bhikṣu-saṁghena sārdham ardhatrayodaśabhir bhikṣu-śataiḥ sambahulaiś ca bodhisattvair mahāsattvaiḥ | ^1b
  
  atha khalu Bhagavān pūrvāhṇa-kāla-samaye nivāsya pātracīvaram ādāya
- Śrāvastīṃ mahā-nagarīṃ piṇḍāya prāvikṣat |
+ Śrāvastīṃ mahā-nagarīṃ piṇḍāya prāvikṣat | ^1c
+
 atha khalu Bhagavāñ Śrāvastīṃ mahā-nagarīṃ piṇḍāya caritvā
  kṛta-bhakta-kṛtyaḥ
  paścādbhakta-piṇḍapāta-pratikrāntaḥ pātra-cīvaraṃ pratiśāmya pādau prakṣalya
- nyaṣīdat prajñapta eva-āsane paryaṅkam ābhujya ṛjuṃ kāyaṃ praṇidhāya pratimukhīṃ smṛtim upasthāpya | ^1b
+ nyaṣīdat prajñapta eva-āsane paryaṅkam ābhujya ṛjuṃ kāyaṃ praṇidhāya pratimukhīṃ smṛtim upasthāpya | ^1d
  
-atha khalu sambahulā bhikṣavo yena Bhagavāṃs tenopasaṃkraman upa saṃkramya Bhagavataḥ pādau śirobhir abhivandya Bhagavantaṃ triṣpr adakṣiṇīkṛtya ekānte nyaṣīdan||1|| ^1c
+atha khalu sambahulā bhikṣavo yena Bhagavāṃs tenopasaṃkraman upa saṃkramya Bhagavataḥ pādau śirobhir abhivandya Bhagavantaṃ triṣpr adakṣiṇīkṛtya ekānte nyaṣīdan||1|| ^1e
 ## Subhuti makes a request
  tena khalu punaḥ samayena āyuṣmān subhūtis tasyām eva parṣadi saṃnipatito 'bhūt saṃniṣaṇṇaḥ |
  atha khalv āyuṣmān subhūtir utthāya-āsanād ekāṃsam uttarāsaṅgaṃ kṛtvā dakṣiṇaṃ jānu-maṇḍalaṃ pṛthivyāṃ pratiṣṭhāpya yena bhagavāṃs tena añjaliṃ praṇamya bhagavantam etad avocat | ^2a
