@@ -1,4 +1,4 @@
-# vajracchedikā prajñāpāramitā】
+# vajracchedikā prajñāpāramitā
 ## The convocation of the Assembly
  evaṃ mayā śrutam
  ekasmin samaye | ^1a
