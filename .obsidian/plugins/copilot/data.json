@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "userId": "7f6ef2f8-b10c-4293-8bf2-50ac0a3e3e48",
+=======
+  "userId": "3ea65f1b-af91-4cea-81a0-c3c21efa86c0",
+>>>>>>> origin/main
   "isPlusUser": false,
   "plusLicenseKey": "",
   "openAIApiKey": "",
@@ -12,6 +16,7 @@
   "azureOpenAIApiDeploymentName": "",
   "azureOpenAIApiVersion": "",
   "azureOpenAIApiEmbeddingDeploymentName": "",
+<<<<<<< HEAD
   "googleApiKey": "AIzaSyCfXnB2VzDIvD5m7195gkFa-D0kAFpDMk8",
   "openRouterAiApiKey": "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",
   "xaiApiKey": "",
@@ -20,6 +25,16 @@
   "defaultChainType": "vault_qa",
   "defaultModelKey": "qwen/qwen3-235b-a22b:free|openrouterai",
   "embeddingModelKey": "text-embedding-004|google",
+=======
+  "googleApiKey": "",
+  "openRouterAiApiKey": "",
+  "xaiApiKey": "",
+  "mistralApiKey": "",
+  "deepseekApiKey": "",
+  "defaultChainType": "llm_chain",
+  "defaultModelKey": "gpt-4.1|openai",
+  "embeddingModelKey": "text-embedding-3-small|openai",
+>>>>>>> origin/main
   "temperature": 0.1,
   "maxTokens": 6000,
   "contextTurns": 15,
@@ -147,8 +162,13 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
+<<<<<<< HEAD
         "reasoning",
         "vision"
+=======
+        "vision",
+        "reasoning"
+>>>>>>> origin/main
       ]
     },
     {
@@ -157,8 +177,13 @@
       "enabled": true,
       "isBuiltIn": true,
       "capabilities": [
+<<<<<<< HEAD
         "reasoning",
         "vision"
+=======
+        "vision",
+        "reasoning"
+>>>>>>> origin/main
       ]
     },
     {
@@ -231,6 +256,7 @@
       "capabilities": [
         "reasoning"
       ]
+<<<<<<< HEAD
     },
     {
       "name": "qwen/qwen3-235b-a22b:free",
@@ -249,6 +275,8 @@
       "provider": "google",
       "apiKey": "AIzaSyCfXnB2VzDIvD5m7195gkFa-D0kAFpDMk8",
       "enabled": true
+=======
+>>>>>>> origin/main
     }
   ],
   "activeEmbeddingModels": [
